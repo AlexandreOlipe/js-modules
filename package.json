@@ -18,9 +18,9 @@
   "homepage": "https://github.com/AlexandreOlipe/js-modules#readme",
   "dependencies": {},
   "devDependencies": {
-    "babel-core": "^6.26.3",
+    "@babel/core": "^7.6.4",
+    "@babel/preset-env": "^7.6.3",
     "babel-loader": "^8.0.6",
-    "babel-preset-es2015-native-modules": "^6.9.4",
     "ramda": "^0.26.1",
     "webpack": "^4.41.2",
     "webpack-cli": "^3.3.9"
