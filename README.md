@@ -1,6 +1,6 @@
 # JS Modules
 
-Part of the JS with TDD course
+Part of the JS with TDD course (unfinished course)
 
 ## Getting Started
 
